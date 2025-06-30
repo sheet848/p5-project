@@ -91,6 +91,12 @@ function draw() {
 
 ---
 
+### Preview
+
+![image](https://github.com/user-attachments/assets/6d34eb52-9bb9-47a9-872a-8574836c8427)
+
+---
+
 ### 🧠 What’s Happening:
 
 #### ✅ Collision Detection:
