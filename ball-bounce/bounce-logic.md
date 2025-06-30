@@ -64,6 +64,12 @@ if (y < diameter / 2 || y > height - diameter / 2) {
 
 ---
 
+### Preview
+
+![image](https://github.com/user-attachments/assets/afd23fcd-07f3-4a20-aa59-3ea170e622a1)
+
+---
+
 ### 📦 Variables Recap:
 
 * `x`, `y`: position of the ball's center.
