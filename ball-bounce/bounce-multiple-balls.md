@@ -63,6 +63,12 @@ function draw() {
 
 ---
 
+### Preview
+
+![image](https://github.com/user-attachments/assets/226ae7d0-ad59-40a0-b809-0cd3448dc91c)
+
+---
+
 ### 🔍 What’s New:
 
 * `balls[]`: Array of ball objects.
