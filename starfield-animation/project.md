@@ -79,6 +79,12 @@ class Star {
 
 ---
 
+### Preview
+
+![image](https://github.com/user-attachments/assets/d3ebb1c4-917f-4891-a411-8d0ae132aa9d)
+
+---
+
 ### 🧠 Key Concepts:
 
 | Part          | Explanation                                                       |
